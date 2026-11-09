@@ -4,6 +4,7 @@ public class Persona {
 
 	public String nom;
 	public String nacionalitat;
+	public int edat;
 
 	public Persona(String nom, String nacionalitat) {
 		this.nom = nom;
